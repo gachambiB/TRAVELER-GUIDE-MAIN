@@ -174,6 +174,7 @@ This project is licensed under the MIT License.
 - **Email:** brigid@roamready.com
 - **Phone:** +254 700814515
 - **Address:** 123 Main Street, Roysambu, Nairobi, 00618-00618, Kenya
+- https://traveler-guide-main.vercel.app/
 
 ---
 
